@@ -52,7 +52,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Офис</h3>
-                    <p className="text-muted-foreground">Москва, ул. Примерная, д. 1</p>
+                    <p className="text-muted-foreground">Новосибирск, ул. Шевченко, д. 19/1</p>
                   </div>
                 </div>
               </div>
